@@ -3,14 +3,14 @@
 
 I'm Riley Teeter!
 
--📓I am studying Computer Science at Wayne State College
+-📓 I am studying Computer Science at Wayne State College
 
-💻I'm Currently Learning
+💻 I'm Currently Learning
 - CIS366 Intro to Database
 - CSC160 Programming Fundamentals II
 - CIS271 Networking II
 
-📫How to Reach Me
+📫 How to Reach Me
 - Email: riteet01@wsc.edu
 - LinkedIn: https://www.linkedin.com/in/riley-teeter-2720a934b/
 
