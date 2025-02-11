@@ -1,7 +1,22 @@
-## Hi there 👋
+### Hi there 👋
+
+
+I'm Riley Teeter!
+
+-📓I am studying Computer Science at Wayne State College
+
+💻I'm Currently Learning
+- CIS366 Intro to Database
+- CSC160 Programming Fundamentals II
+- CIS271 Networking II
+
+📫How to Reach Me
+- Email: riteet01@wsc.edu
+- LinkedIn: https://www.linkedin.com/in/riley-teeter-2720a934b/
+
 
 <!--
-**RileyTeeter/RileyTeeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
