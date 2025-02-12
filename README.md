@@ -4,6 +4,7 @@
 I'm Riley Teeter!
 
 -📓 I am studying Computer Science at Wayne State College
+- 🤔 I use daily .java, .cpp, .py, .sql
 
 💻 I'm Currently Learning
 - CIS366 Intro to Database
